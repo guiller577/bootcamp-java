@@ -1,7 +1,7 @@
 {
   "category": "Entretenimiento",
   "question": "¿Dónde está la capital de la industria del cine?",
-  "options": ["Los Ángeles, Nueva York, Chicago, Kansas"],
+  "options": ["Los Ángeles", "Nueva York", "Chicago", "Kansas"],
   "answer": 0,
   "explanation": "El barrio de Hollywood que se encuentra en Los Ángeles, California; se ha convertido en la cuna de la cinematografía mundial."
 }
