@@ -10,6 +10,6 @@ public class Ejercicio2 {
 
         String busqueda = "https://twitter.com/search?q=";
 
-        System.out.println("El link para la busqueda es: " + busqueda + palabra);
+        System.out.println("El link para la búsqueda es: " + busqueda + palabra);
     }
 }

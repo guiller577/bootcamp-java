@@ -10,6 +10,6 @@ public class Ejercicio1 {
 
         String url = "https://www.google.com/maps/search/";
 
-        System.out.println("La busqueda es: " + url + pais);
+        System.out.println("La búsqueda es: " + url + pais);
     }
 }
